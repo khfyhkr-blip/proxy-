@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "total_proxies": 20,
-    "last_updated": "2026-02-02T03:18:36.230849",
+    "total_proxies": 21,
+    "last_updated": "2026-02-02T05:28:13.124054",
     "check_interval_seconds": 600,
     "cleanup_interval_seconds": 14400,
-    "server_port": 35781,
+    "server_port": 59731,
     "common_ports": [
       80,
       443,
@@ -20,7 +20,8 @@
       1967,
       1976,
       1981
-    ]
+    ],
+    "tested_with": "Orange Egypt API"
   },
   "proxies": [
     {
@@ -189,6 +190,19 @@
       "timestamp": "2026-02-02T03:46:40.396564",
       "ip": "59.153.19.34",
       "port": "20909"
+    },
+    {
+      "proxy": "62.133.62.12:1081",
+      "continent": "Unknown",
+      "continent_code": "UN",
+      "speed": 6438,
+      "http_link": "http://62.133.62.12:1081",
+      "https_link": "http://62.133.62.12:1081",
+      "timestamp": "2026-02-02T05:27:32.669340",
+      "ip": "62.133.62.12",
+      "port": "1081",
+      "port_type": "SOCKS",
+      "tested_with": "Orange Egypt API"
     },
     {
       "proxy": "103.190.60.6:9090",
