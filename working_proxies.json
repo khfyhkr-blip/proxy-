@@ -16,5 +16,11 @@
     "connection_type": "TTP",
     "speed": "10342ms",
     "country_code": "unknown"
+  },
+  {
+    "proxy": "62.133.62.12:1081",
+    "connection_type": "TTP",
+    "speed": "13109ms",
+    "country_code": "unknown"
   }
 ]
