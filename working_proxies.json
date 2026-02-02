@@ -1,10 +1,33 @@
 {
   "metadata": {
-    "total_proxies": 0,
-    "last_updated": "2026-02-02T03:41:58.757710",
+    "total_proxies": 2,
+    "last_updated": "2026-02-02T03:47:12.931405",
     "check_interval_seconds": 600,
     "cleanup_interval_seconds": 14400,
-    "server_port": 34473
+    "server_port": 45893
   },
-  "proxies": []
+  "proxies": [
+    {
+      "proxy": "59.153.19.34:20909",
+      "continent": "Asia",
+      "continent_code": "AS",
+      "speed": 6067,
+      "http_link": "http://59.153.19.34:20909",
+      "https_link": "http://59.153.19.34:20909",
+      "timestamp": "2026-02-02T03:46:40.396564",
+      "ip": "59.153.19.34",
+      "port": "20909"
+    },
+    {
+      "proxy": "103.190.60.6:9090",
+      "continent": "Asia",
+      "continent_code": "AS",
+      "speed": 7772,
+      "http_link": "http://103.190.60.6:9090",
+      "https_link": "http://103.190.60.6:9090",
+      "timestamp": "2026-02-02T03:46:42.834578",
+      "ip": "103.190.60.6",
+      "port": "9090"
+    }
+  ]
 }
