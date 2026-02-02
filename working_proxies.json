@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_proxies": 3,
-    "last_updated": "2026-02-02T13:14:33.329356",
+    "total_proxies": 5,
+    "last_updated": "2026-02-02T13:26:49.279375",
     "check_interval_seconds": 600,
     "cleanup_interval_seconds": 14400,
     "server_port": 43383,
@@ -35,6 +35,32 @@
       "ip": "96.9.66.208",
       "port": "80",
       "port_type": "HTTP",
+      "tested_with": "Orange Egypt API"
+    },
+    {
+      "proxy": "41.65.55.10:1976",
+      "continent": "Unknown",
+      "continent_code": "UN",
+      "speed": 7099,
+      "http_link": "http://41.65.55.10:1976",
+      "https_link": "http://41.65.55.10:1976",
+      "timestamp": "2026-02-02T13:25:26.252662",
+      "ip": "41.65.55.10",
+      "port": "1976",
+      "port_type": "CUSTOM",
+      "tested_with": "Orange Egypt API"
+    },
+    {
+      "proxy": "180.180.218.250:8080",
+      "continent": "Unknown",
+      "continent_code": "UN",
+      "speed": 8217,
+      "http_link": "http://180.180.218.250:8080",
+      "https_link": "http://180.180.218.250:8080",
+      "timestamp": "2026-02-02T13:24:57.328668",
+      "ip": "180.180.218.250",
+      "port": "8080",
+      "port_type": "PROXY",
       "tested_with": "Orange Egypt API"
     },
     {
