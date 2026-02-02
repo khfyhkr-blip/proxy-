@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_proxies": 10,
-    "last_updated": "2026-02-02T02:33:46.419343",
+    "total_proxies": 11,
+    "last_updated": "2026-02-02T02:44:59.303096",
     "check_interval_seconds": 600,
     "cleanup_interval_seconds": 14400,
     "server_port": 35781,
@@ -23,6 +23,18 @@
     ]
   },
   "proxies": [
+    {
+      "proxy": "3.110.213.181:3128",
+      "continent": "Asia",
+      "continent_code": "AS",
+      "speed": 1133,
+      "http_link": "http://3.110.213.181:3128",
+      "https_link": "http://3.110.213.181:3128",
+      "timestamp": "2026-02-02T02:43:48.564939",
+      "ip": "3.110.213.181",
+      "port": "3128",
+      "port_type": "PROXY"
+    },
     {
       "proxy": "200.174.198.32:8888",
       "continent": "South America",
