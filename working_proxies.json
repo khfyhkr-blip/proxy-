@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_proxies": 21,
-    "last_updated": "2026-02-02T05:28:13.124054",
+    "last_updated": "2026-02-02T14:00:37.356497",
     "check_interval_seconds": 600,
     "cleanup_interval_seconds": 14400,
-    "server_port": 59731,
+    "server_port": 51915,
     "common_ports": [
       80,
       443,
