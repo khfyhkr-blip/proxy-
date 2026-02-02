@@ -22,5 +22,23 @@
     "connection_type": "TTP",
     "speed": "13109ms",
     "country_code": "unknown"
+  },
+  {
+    "proxy": "103.181.84.71:3128",
+    "connection_type": "TTP",
+    "speed": "5493ms",
+    "country_code": "unknown"
+  },
+  {
+    "proxy": "104.248.151.93:9090",
+    "connection_type": "TTP",
+    "speed": "3109ms",
+    "country_code": "unknown"
+  },
+  {
+    "proxy": "45.88.0.98:3128",
+    "connection_type": "TTP",
+    "speed": "604ms",
+    "country_code": "unknown"
   }
 ]
