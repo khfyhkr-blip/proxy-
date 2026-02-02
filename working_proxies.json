@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_proxies": 11,
-    "last_updated": "2026-02-02T02:44:59.303096",
+    "total_proxies": 20,
+    "last_updated": "2026-02-02T02:56:06.543111",
     "check_interval_seconds": 600,
     "cleanup_interval_seconds": 14400,
     "server_port": 35781,
@@ -24,6 +24,42 @@
   },
   "proxies": [
     {
+      "proxy": "45.88.0.116:3128",
+      "continent": "Europe",
+      "continent_code": "EU",
+      "speed": 638,
+      "http_link": "http://45.88.0.116:3128",
+      "https_link": "http://45.88.0.116:3128",
+      "timestamp": "2026-02-02T02:55:56.244785",
+      "ip": "45.88.0.116",
+      "port": "3128",
+      "port_type": "PROXY"
+    },
+    {
+      "proxy": "45.88.0.111:3128",
+      "continent": "Europe",
+      "continent_code": "EU",
+      "speed": 659,
+      "http_link": "http://45.88.0.111:3128",
+      "https_link": "http://45.88.0.111:3128",
+      "timestamp": "2026-02-02T02:55:20.654126",
+      "ip": "45.88.0.111",
+      "port": "3128",
+      "port_type": "PROXY"
+    },
+    {
+      "proxy": "13.201.3.83:3128",
+      "continent": "Asia",
+      "continent_code": "AS",
+      "speed": 1073,
+      "http_link": "http://13.201.3.83:3128",
+      "https_link": "http://13.201.3.83:3128",
+      "timestamp": "2026-02-02T02:55:28.063029",
+      "ip": "13.201.3.83",
+      "port": "3128",
+      "port_type": "PROXY"
+    },
+    {
       "proxy": "3.110.213.181:3128",
       "continent": "Asia",
       "continent_code": "AS",
@@ -34,6 +70,66 @@
       "ip": "3.110.213.181",
       "port": "3128",
       "port_type": "PROXY"
+    },
+    {
+      "proxy": "45.88.0.113:3128",
+      "continent": "Europe",
+      "continent_code": "EU",
+      "speed": 1234,
+      "http_link": "http://45.88.0.113:3128",
+      "https_link": "http://45.88.0.113:3128",
+      "timestamp": "2026-02-02T02:55:45.593409",
+      "ip": "45.88.0.113",
+      "port": "3128",
+      "port_type": "PROXY"
+    },
+    {
+      "proxy": "194.58.34.63:3128",
+      "continent": "Europe",
+      "continent_code": "EU",
+      "speed": 1302,
+      "http_link": "http://194.58.34.63:3128",
+      "https_link": "http://194.58.34.63:3128",
+      "timestamp": "2026-02-02T02:55:29.367165",
+      "ip": "194.58.34.63",
+      "port": "3128",
+      "port_type": "PROXY"
+    },
+    {
+      "proxy": "34.14.143.185:3128",
+      "continent": "Asia",
+      "continent_code": "AS",
+      "speed": 1371,
+      "http_link": "http://34.14.143.185:3128",
+      "https_link": "http://34.14.143.185:3128",
+      "timestamp": "2026-02-02T02:55:32.609122",
+      "ip": "34.14.143.185",
+      "port": "3128",
+      "port_type": "PROXY"
+    },
+    {
+      "proxy": "43.155.138.148:3128",
+      "continent": "Asia",
+      "continent_code": "AS",
+      "speed": 1834,
+      "http_link": "http://43.155.138.148:3128",
+      "https_link": "http://43.155.138.148:3128",
+      "timestamp": "2026-02-02T02:55:01.808669",
+      "ip": "43.155.138.148",
+      "port": "3128",
+      "port_type": "PROXY"
+    },
+    {
+      "proxy": "188.130.160.209:80",
+      "continent": "Asia",
+      "continent_code": "AS",
+      "speed": 1925,
+      "http_link": "http://188.130.160.209:80",
+      "https_link": "http://188.130.160.209:80",
+      "timestamp": "2026-02-02T02:55:26.985859",
+      "ip": "188.130.160.209",
+      "port": "80",
+      "port_type": "HTTP"
     },
     {
       "proxy": "200.174.198.32:8888",
@@ -58,6 +154,18 @@
       "ip": "8.219.97.248",
       "port": "80",
       "port_type": "HTTP"
+    },
+    {
+      "proxy": "160.250.197.49:8080",
+      "continent": "Asia",
+      "continent_code": "AS",
+      "speed": 4365,
+      "http_link": "http://160.250.197.49:8080",
+      "https_link": "http://160.250.197.49:8080",
+      "timestamp": "2026-02-02T02:55:25.021135",
+      "ip": "160.250.197.49",
+      "port": "8080",
+      "port_type": "PROXY"
     },
     {
       "proxy": "23.108.27.158:80",
