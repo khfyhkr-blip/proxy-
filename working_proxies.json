@@ -1,7 +1,7 @@
 {
   "metadata": {
     "total_proxies": 7,
-    "last_updated": "2026-02-02T13:38:42.115224",
+    "last_updated": "2026-02-02T13:50:28.367195",
     "check_interval_seconds": 600,
     "cleanup_interval_seconds": 14400,
     "server_port": 43383,
